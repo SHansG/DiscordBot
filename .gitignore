@@ -1,0 +1,6 @@
+*.tlp
+.env
+oldcode/
+node_modules/
+*.json
+*.txt
