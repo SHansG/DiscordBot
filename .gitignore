@@ -2,5 +2,4 @@
 .env
 oldcode/
 node_modules/
-*.json
 *.txt
