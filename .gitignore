@@ -3,3 +3,5 @@
 oldcode/
 node_modules/
 *.txt
+package-lock.json
+SodiumProblem.md
